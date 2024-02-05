@@ -18,8 +18,8 @@
 
 
 [twitter]: https://twitter.com/DuncanDuncorir
-[youtube]: https://www.youtube.com/c/duncorir
-[linkedin]: https://linkedin.com/in/duncorir333
+[youtube]: https://www.youtube.com/c/duncorir333
+[linkedin]: https://linkedin.com/in/duncorir
 
 <!--
 **duncorir/duncorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
