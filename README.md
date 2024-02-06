@@ -1,4 +1,4 @@
-<h1>Hi, I'm Duncan! <br/><a href="https://github.com/duncorir">Software Engineer</a>, <a href="https://www.linkedin.com/in/duncorir/">Embedded Systems Engineer</a>, <a href="https://www.youtube.com/c/duncorir333">YouTuber</a></h1>
+<h1>Hi, I'm Duncan! <br/><a href="https://github.com/duncorir">Software Engineer</a>,<a href="https://www.linkedin.com/in/duncorir/">Electrical/Electronic Engineer,Embedded Systems Engineer</a>, <a href="https://www.youtube.com/c/duncorir333">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
